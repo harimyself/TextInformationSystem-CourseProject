@@ -5,20 +5,20 @@ from source_code.neural_network_ml_classifier.train.model_builder import build
 import pickle
 from source_code.neural_network_ml_classifier.train.model_executor import compile_fit, saveModels
 
-data_base_dir = '../../data/'
-target_path = '/Users/hbojja/PycharmProjects/trained_models/expert_search/'
+data_base_dir = '/Users/hbojja/uiuc/CS410-TIS/TextInformationSystem-CourseProject/source_code/neural_network_ml_classifier/data/'
+target_path = '/Users/hbojja/PycharmProjects/trained_models/expert_search_v2/'
 
-train_data_precentage = .8
+train_data_precentage = .7
 MINI_BATCH_SIZE = 64
 
 print("starting Input data preparation finished...")
-X = pickle.load(open(data_base_dir + 'train_set_tfidf_vectorized/input_features', 'rb'))
+X = pickle.load(open(data_base_dir + '/train/X', 'rb'))
 #convert sparse matrix to dense
 X = X.todense()
 
-Y = pickle.load(open(data_base_dir + 'train_set_tfidf_vectorized/output_labels', 'rb'))
+Y = pickle.load(open(data_base_dir + '/train/Y', 'rb'))
 
-vectorizer = pickle.load(open(data_base_dir + 'vectorizer/vectorizer_object', 'rb'))
+vectorizer = pickle.load(open(data_base_dir + '/vectorizer_object', 'rb'))
 print("Input data preparation finished...")
 
 train_set_X, val_set_X, train_set_Y, val_set_Y = train_test_split(X, Y, test_size=1-train_data_precentage, shuffle=True)

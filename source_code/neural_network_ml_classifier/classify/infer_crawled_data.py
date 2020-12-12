@@ -15,11 +15,11 @@ from source_code.neural_network_ml_classifier.data_processor.PreProcess import P
         model_base_path: Path to tensorflow ML model fully trained and saved.
 """
 crawled_data_path = '../../Crawl-n-Extract/Merge/UIUC.txt'
-model_base_path = '../fully_trained_model/'
+model_base_path = '../fully_trained_model/neural_network_model_v2/'
 
 
-print("Loading trained model from: ", model_base_path + '/neural_network_model_v1/model')
-model:Sequential = tf.keras.models.load_model(model_base_path + '/neural_network_model_v1/model')
+print("Loading trained model from: ", model_base_path + '/model')
+model:Sequential = tf.keras.models.load_model(model_base_path + '/model')
 
 print("Loading vectorized from: ", model_base_path + '/vectorizer/vectorizer_object')
 vectorizer:TfidfVectorizer = pickle.load(open(model_base_path + '/vectorizer/vectorizer_object', 'rb'))
@@ -38,11 +38,11 @@ processed_lines = []
 counter = 0
 crawled_data_len = len(crawled_data)
 for line in crawled_data:
-    line_split = line.split('#####')
+    line_split = line.split(' ##### ')
     if(len(line_split) < 2):
         continue
 
-    processed_line = pp.intersectStopWordsAndStem(line_split[1].strip())
+    processed_line = pp.intersectStopWordsAndStem(line_split[1])
     processed_lines.append(processed_line)
     counter += 1
     if counter % 100 == 0:
@@ -60,5 +60,6 @@ print("Printing the pages classified as faculty pages..")
 for idx in range(len(predicted_values_labeled)):
     if predicted_values_labeled[idx][0] == 1:
         faculty_count += 1
-        print(crawled_data[idx])
+        print(crawled_data[idx].split(" ##### ")[0])
 
+print("Total # ", faculty_count)
