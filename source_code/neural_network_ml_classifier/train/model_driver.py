@@ -1,22 +1,24 @@
 import numpy as np
 from sklearn.model_selection import train_test_split
 import tensorflow as tf
-from neural_network_ml_classifier.train.model_builder import build
+from source_code.neural_network_ml_classifier.train.model_builder import build
 import pickle
-from neural_network_ml_classifier.train.model_executor import compile_fit, saveModels
+from source_code.neural_network_ml_classifier.train.model_executor import compile_fit, saveModels
 
-data_base_dir = '/hari_data_processed/untouch/'
+data_base_dir = '../../data/'
+target_path = '/Users/hbojja/PycharmProjects/trained_models/expert_search/'
+
 train_data_precentage = .8
 MINI_BATCH_SIZE = 64
 
 print("starting Input data preparation finished...")
-X = pickle.load(open(data_base_dir + '/train/X', 'rb'))
+X = pickle.load(open(data_base_dir + 'train_set_tfidf_vectorized/input_features', 'rb'))
 #convert sparse matrix to dense
 X = X.todense()
 
-Y = pickle.load(open(data_base_dir + '/train/Y', 'rb'))
+Y = pickle.load(open(data_base_dir + 'train_set_tfidf_vectorized/output_labels', 'rb'))
 
-vectorizer = pickle.load(open(data_base_dir + '/vectorizer_object', 'rb'))
+vectorizer = pickle.load(open(data_base_dir + 'vectorizer/vectorizer_object', 'rb'))
 print("Input data preparation finished...")
 
 train_set_X, val_set_X, train_set_Y, val_set_Y = train_test_split(X, Y, test_size=1-train_data_precentage, shuffle=True)
@@ -32,4 +34,4 @@ neural_network = build(len(vectorizer.get_feature_names()))
 
 model, model_history = compile_fit(neural_network, train_set, val_set, train_set_X.shape[0], val_set_X.shape[0], MINI_BATCH_SIZE)
 
-saveModels(model, vectorizer, '/Users/hbojja/PycharmProjects/trained_models/expert_search/')
+saveModels(model, vectorizer, target_path)

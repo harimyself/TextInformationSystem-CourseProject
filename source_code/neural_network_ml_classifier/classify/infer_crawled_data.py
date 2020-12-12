@@ -3,7 +3,7 @@ import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from tensorflow.keras.models import Sequential
 import numpy as np
-from neural_network_ml_classifier.data_processor.PreProcess import PreProcessor
+from source_code.neural_network_ml_classifier.data_processor.PreProcess import PreProcessor
 
 
 """
@@ -15,11 +15,11 @@ from neural_network_ml_classifier.data_processor.PreProcess import PreProcessor
         model_base_path: Path to tensorflow ML model fully trained and saved.
 """
 crawled_data_path = '../../Crawl-n-Extract/Merge/UIUC.txt'
-model_base_path = '../../fully_trained_model/'
+model_base_path = '../fully_trained_model/neural_network_model_v1'
 
 
-print("Loading trained model from: ", model_base_path + 'neural_network_model_v1/model')
-model:Sequential = tf.keras.models.load_model(model_base_path + 'neural_network_model_v1/model')
+print("Loading trained model from: ", model_base_path + '/model')
+model:Sequential = tf.keras.models.load_model(model_base_path + '/model')
 
 print("Loading vectorized from: ", model_base_path + 'vectorizer/vectorizer_object')
 vectorizer:TfidfVectorizer = pickle.load(open(model_base_path + 'vectorizer/vectorizer_object', 'rb'))
