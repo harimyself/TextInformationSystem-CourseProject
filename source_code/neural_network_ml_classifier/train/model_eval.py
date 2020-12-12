@@ -3,9 +3,10 @@ import pickle
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
+from sklearn.metrics import f1_score
 
-data_base_path = '/hari_data_processed/untouch/test/'
-model_base_path = '/Users/hbojja/PycharmProjects/trained_models/expert_search/'
+data_base_path = '../data/test/'
+model_base_path = '../fully_trained_model/neural_network_model_v2/'
 
 
 print("Starting to loading models..")
@@ -37,3 +38,4 @@ for idx in range(len(predictions)):
 
 print("Accurate prediction count", match_count)
 print("Accurate prediction percentage", match_count/len(Y_test)*100)
+print("F1 Score: ", f1_score(Y_test, predictions_classes))
