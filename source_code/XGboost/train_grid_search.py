@@ -9,7 +9,14 @@ from sklearn.model_selection import StratifiedKFold, GridSearchCV
 import os
 import pickle
 
-PROCESSED_DATA_BASE_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../hari_data_processed/'
+
+"""
+    This is the script we have used to do hyperparameter tuning for XGBoost.
+
+    Note: This script takes a long time to run. 
+"""
+
+PROCESSED_DATA_BASE_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../data/classificationData/'
 
 def load_data():
         print("Starting to loading train data..")
@@ -64,17 +71,6 @@ def train_grid_search():
     print('Raw AUC score:', score)
     for param_name in sorted(best_parameters.keys()):
         print("%s: %r" % (param_name, best_parameters[param_name]))
-
-    # bst.save_model('xgb.model')
-
-
-
-    # y_pred = xgb_model.predict(X_test)
-    # predictions = [round(value) for value in y_pred]
-
-    # print(f"Accuracy: {accuracy_score(label_encoder_y_test, y_pred)}")
-
-    # print(f"F1-Score: {f1_score(label_encoder_y_test, y_pred)}")
 
 if __name__ == "__main__":
     train_grid_search()
