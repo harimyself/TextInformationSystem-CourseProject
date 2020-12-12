@@ -48,10 +48,16 @@ class PreProcessor(object):
         for file in os.listdir(source_dir):
             dest_file = open(dest_dir + "/" + file, mode='w')
             for line in open(source_dir + "/" + file):
+                line_tokens = line.split(" ##### ")
+                if len(line_tokens) == 2:
+                    line = line_tokens[1]
+                else:
+                    line = line_tokens[0]
+
                 dest_file.write(self.intersectStopWordsAndStem(line) + "\n")
             dest_file.close()
 
 # preProcessor = PreProcessor()
-# preProcessor.process("./raw_data", "./pre_processed_data")
+# preProcessor.process("/Users/hbojja/uiuc/CS410-TIS/ExpertSearch/hari_data/", "/Users/hbojja/uiuc/CS410-TIS/ExpertSearch/hari_data_processed/v2/")
 # preProcessor.process("Hello, This is a sample sentence with full of stop words. "
 #                      "Stems the words and prints the results. No ordered manner.")
