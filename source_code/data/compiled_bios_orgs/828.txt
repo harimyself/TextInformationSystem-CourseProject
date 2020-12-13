@@ -1,0 +1,1 @@
+["DePaul CDM", "Computer Science", "DePaul University", "Sophia University", "Artificial Intelligence", "Natural Language Processing, Information Retrieval and Machine Learning"]

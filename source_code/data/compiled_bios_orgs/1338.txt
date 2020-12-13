@@ -1,0 +1,1 @@
+["EducationBS", "Oregon State University", "Biochemistry and Biophysics", "University of Wisconsin", "Molecular Biology", "the International Society for Computational Biology", "Plant Physiology Volume", "Gribskov", "Computational Biology and Chemistry", "C.L., de Sa", "Nair, T.M.", "Genome Informatics"]

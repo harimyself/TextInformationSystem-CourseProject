@@ -1,0 +1,1 @@
+["Desheng", "the Department of Computer Science", "Rutgers University", "the Senseable City Consortium", "Computer Science fromUniversity", "the White HouseSmart Cities Initiative", "mobile data collection", "visual data analytics", "onReal-Time Interactions of Cross-Domain Urban Systems", "MobiCom", "SIGSPATIAL", "SenSys", "IPSN", "ICCPS", "Computer Science"]

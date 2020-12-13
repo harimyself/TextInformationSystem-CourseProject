@@ -1,0 +1,1 @@
+["Harvard University", "the University of California at Davis", "the University of California at Berkeley", "Stanford University", "Harvard University"]

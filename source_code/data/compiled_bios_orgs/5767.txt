@@ -1,0 +1,1 @@
+["Computer Science Department University of California, Davis Office:", "cs dot ucdavis dot edu Research Interests", "Empirical Software Engineering", "OSS", "UC Davis", "Software Engineering", "the US Forest Service", "UC Davis", "Data Mining And Algorithms"]

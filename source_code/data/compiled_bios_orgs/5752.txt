@@ -1,0 +1,1 @@
+["University of Oregon UO Home CIS Dept", "Department of Computer and Information Science 1202 University of Oregon Eugene", "CIS 407/507", "Event Processing Systems", "Operating Systems"]

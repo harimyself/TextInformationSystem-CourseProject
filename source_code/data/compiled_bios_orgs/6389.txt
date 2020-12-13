@@ -1,0 +1,1 @@
+["B.A., M.A.", "University of California", "UCLA", "UCLA", "Computer Science", "Haverford College", "Mathematics and Physics", "Computer Science"]

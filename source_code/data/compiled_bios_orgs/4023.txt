@@ -1,0 +1,1 @@
+["The University of Texas", "the Artificial Intelligence Laboratory", "Solving Physics Problems", "Publications Curriculum Vitae Free Software:", "EMYCIN", "Data Structures", "Computer Science 2317 Speedway", "GDC 3.824", "cs dot utexas dot edu"]

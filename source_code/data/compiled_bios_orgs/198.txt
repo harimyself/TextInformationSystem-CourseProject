@@ -1,0 +1,1 @@
+["Department Chair Office", "Electrical Engineering", "North Carolina State University B.S.", "Computer Science", "Virginia Tech Research Interests Machine Learning", "Pattern Recognition", "Education Teaching Interest Introductory Computer Science and Programming, Machine Learning", "Pattern Recognition", "Imaging/Signal Analysis"]

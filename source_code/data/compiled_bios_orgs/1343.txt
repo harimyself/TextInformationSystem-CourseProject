@@ -1,0 +1,1 @@
+["Electrical and Computer Engineering", "Taiwan University", "Electrical Engineering", "MSEE", "Stanford University", "Electrical Engineering", "Stanford University", "Electrical Engineering", "National Science Foundation", "IEEE Transactions on Multimedia", "Cloud Computing for Mobile", "IEEE Computer", "IEEE Transactions on Computers"]

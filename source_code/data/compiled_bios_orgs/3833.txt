@@ -1,0 +1,1 @@
+["Computer Science & Engineering University", "Washington Co-Founder & CXO", "Trifacta Chair", "Box 352350", "Google", "Vega", "Vega-Lite Interactive", "Vega", "Vega-Lite", "Stanford HCI", "Data-Driven Documents", "D3.js Data", "Trifacta Wrangler Adaptive", "CommentSpace"]

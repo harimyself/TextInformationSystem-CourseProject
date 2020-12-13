@@ -1,0 +1,1 @@
+["Department of Computer Science Brown University", "Providence RI gdk@cs.brown.edu", "Computer Science", "Brown University", "the Intelligent Robot Lab", "AI", "Constructing High-Level Symbolic Representations for Planning", "the Decentralized Control of Multi-Robot Teams", "Reintegrating AI", "Hierarchical Robot Learning and Planning"]

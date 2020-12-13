@@ -1,0 +1,1 @@
+["Facebook AI Research", "University College London", "the Machine Reading Lab", "Tokyo University", "DBCLS", "the University of Edinburgh", "NLP", "Machine Learning", "AI", "Complex Embeddings", "Tho, Welbl", "@riedelcastro"]

@@ -1,0 +1,1 @@
+["Google", "Electrical Engineering", "New York University", "M.S., Computer Engineering", "New York University Poly", "B.E., Electronics and Communication Engineering", "Nanoelectronic", "VLSI", "Google"]

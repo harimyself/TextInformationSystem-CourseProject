@@ -1,0 +1,1 @@
+["Google", "Cornell University", "B.E., Electronic Engineering", "MDS", "JSAC", "AT&T", "AT&T /", "Cornell University", "MDS", "IEEE Trans", "IEEE Journal on Selected Areas in Communications", "Optimality", "IEEE Trans", "Gaussian", "IEEE Trans", "Google"]

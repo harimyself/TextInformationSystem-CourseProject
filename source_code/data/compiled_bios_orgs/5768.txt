@@ -1,0 +1,1 @@
+["ECS", "Columbia University", "U.C. Davis", "Xerox PARC", "AT&T Labs", "AT&T Bell Labs"]

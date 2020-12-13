@@ -1,0 +1,1 @@
+["Computer Science", "Clarkson University BS", "Software Engineering", "Clarkson University", "Web Development", "Northeastern University", "Clarkson University", "Me Hometown: Strumica", "Software Engineering", "Clarkson University"]

@@ -1,0 +1,1 @@
+["GA", "Computer Science", "Ph.D. 2006 Anhui University", "Computer Science and Engineering", "M.E. 2002 Anhui University", "Computer Science and Engineering", "B.E. 1999", "Protein-Protein Interaction Graph", "Advanced Algorithms"]

@@ -1,0 +1,1 @@
+["TOPLAS", "Arxiv", "Arxiv", "GPU", "EC", "Synchronising C/C++", "Power", "APLAS", "Understanding Power Multiprocessors", "EC", "POPL", "Power", "SC", "CBMC", "goto", "SC", "TOPLAS", "ESOP", "CAV", "CAV"]

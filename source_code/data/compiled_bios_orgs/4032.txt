@@ -1,0 +1,1 @@
+["VMware Research Group", "Microsoft Research Silicon Valley", "cs dot", "Reconfigurable Fabric", "Onur Mutlu", "Onur Mutlu", "Transactional Memory", "MetaTM/TxLinux", "Complete Publications Service Program Committee", "Usenix ATC", "GPGPU", "Operating Systems Review", "OSR"]

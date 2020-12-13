@@ -1,0 +1,1 @@
+["ICS", "| 32A", "|", "CompSci", "CSE", "EECS", "School of Information and Computer Sciences University of California", "UCI", "ICS", "ICS", "ICS", "ICS", "CSE", "ICS", "CSE", "ICS", "ICS", "ICS", "ICS", "CSE", "ICS 80", "ICS", "CompSci", "ICS 184", "EECS", "CompSci", "CSE 141", "CompSci", "Informatics 42", "Informatics 43 Informatics Core CourseIII"]

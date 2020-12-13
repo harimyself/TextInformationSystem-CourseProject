@@ -1,0 +1,1 @@
+["Texas Tech University", "MSEE", "Texas Tech University", "BSEE", "Texas Tech University", "Engineering Executive Management Program", "Purdue University", "VLSI", "National Science Foundation Research Award National Aeronautics and Space Administration", "Heart Rhythm Society", "NASPE", "IEEE", "AAMI Presentations", "CICC", "ISSCC", "NASPE"]

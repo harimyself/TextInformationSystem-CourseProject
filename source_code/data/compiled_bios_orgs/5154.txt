@@ -1,0 +1,1 @@
+["Boston College Computer Science Department", "bc dot edu", "St. Mary's Hall", "S. Boston College", "Graph", "KDD", "ODSC", "SDM", "Nesterov", "SDP", "Signal Processing 2018", "Markov", "IEEE Letters", "Signal Processing", "Plos", "Comp", "ADMM", "IPDPS 2016 Workshops", "SPARTA", "BF", "TWA", "IEEE", "PhD Thesis", "DocEng 2012 J. Bento", "DocEng 2011"]

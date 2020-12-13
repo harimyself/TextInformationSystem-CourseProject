@@ -1,0 +1,1 @@
+["Department of Computer Science and Engineering Job", "College of Engineering Email:dchiang@nd.edu", "326D Cushing Hall Website", "University of Pennsylvania", "A.B./S.M., Computer Science", "Harvard University", "ACL 2005", "NAACL HLT", "DARPA", "NSF", "Google", "NAACL", "ACL"]

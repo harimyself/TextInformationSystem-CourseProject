@@ -1,0 +1,1 @@
+["School of Informatics", "the University of Edinburgh", "SMT", "WMT", "the Machine Translation Group", "the Edinburgh NLP Group", "the University of Zurich", "CoNTra", "the University of Zurich", "the University of Zurich", "ACL", "NAACL", "the University of Edinburgh", "WMT", "Matt Post", "WMT"]

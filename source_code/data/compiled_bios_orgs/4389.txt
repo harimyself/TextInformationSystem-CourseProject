@@ -1,0 +1,1 @@
+["Temple University", "PA M.S. Computer Science School of Engineering", "Applied Sciences UCLA", "Northwestern University", "IL Institutional Service", "Computer Science and Information", "CS Department", "CS", "Web Programming and Project Development CS", "Informatics CS 545Human-Computer Interaction"]

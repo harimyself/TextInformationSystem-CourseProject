@@ -1,0 +1,1 @@
+["the Department of Computer Science", "the University of California Santa Barbara", "Theoretical Computer Science and Discrete Mathematics", "Algorithmic Graph Theory", "Parameterized Complexity", "the Norwegian Informatics Olympiad", "Springer", "Parameterized Algorithms", "Springer Amazon Barnes & Noble Official", "PC Chair", "Beroun CS Winter School"]

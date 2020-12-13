@@ -1,0 +1,1 @@
+["Futura", "Trebuchet", "uppercase;\\n\\tfont", "ul", "the IEEE Transactions on Neural Networks and Learning Systems", "IEEE", "Control Systems Centre", "EE&E", "University of Manchester", "UMIST", "Research", "Control Systems Centre", "EE&E", "University of Manchester", "UMIST", "University of Manchester", "UMIST"]

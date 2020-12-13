@@ -1,0 +1,1 @@
+["the Allen School of Computer Science & Engineering", "the University of Washington", "PECASE Awardee", "the University of Edinburgh", "MIT", "CSE", "Yatskar Announcements", "QA-SRL", "the QA-SRL Bank", "NLP", "NLP", "AMR"]

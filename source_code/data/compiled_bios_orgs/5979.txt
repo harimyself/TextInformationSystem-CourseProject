@@ -1,0 +1,1 @@
+["Faculty Office", "ICICS/CS Building", "Departmental Scheduling Representative", "ISP", "CPSC", "UBC CS"]

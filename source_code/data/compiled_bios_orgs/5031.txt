@@ -1,0 +1,1 @@
+["Data Science and Informatics Education Ph.D.", "Geographic Information Systems", "GIS", "Computational Geometry", "Awards & Distinctions National Science Foundation", "NSF", "Contact Information Telephone", "University of Florida Department of Computer & Information Science & Engineering", "CSE Building"]

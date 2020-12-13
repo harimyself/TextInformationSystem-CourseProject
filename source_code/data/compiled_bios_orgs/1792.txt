@@ -1,0 +1,1 @@
+["cs dot utah dot edu", "the School of Computing", "the University of Utah", "Machine Learning and Natural Language Processing", "NLP", "Stanford University", "Stanford", "the Computer Science Department of", "the University of Illinois at Urbana-Champaign", "Cognitive Computation", "cs dot utah dot edu Office Room 3126", "Merrill Engineering Building Mailing"]

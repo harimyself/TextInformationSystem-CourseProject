@@ -1,0 +1,1 @@
+["University of California Santa Cruz", "Computer Science", "DePaul University", "IL", "Computer Science", "B.A. 1987", "Miami University", "Computer Systems", "california Bio", "miami university", "sears", "motorola", "depaul", "UCSC", "UCSC", "IBM almaden research center", "IBM", "yahoo research", "yahoo", "facebook", "facebook", "osmeta", "SJSU", "CS", "CS"]

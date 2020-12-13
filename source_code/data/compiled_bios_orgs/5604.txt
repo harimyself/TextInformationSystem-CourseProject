@@ -1,0 +1,1 @@
+["CSCE 436 Human-Computer Interaction", "CSCE", "CSCE 436 Human-Computer Interaction", "CSCE", "CSCE 436", "CSCE", "CSCE 436 Human-Computer Interaction", "CSCE", "CSCE 436", "CSCE", "CSCE", "CSCE", "CSCE", "Data Structures & Algorithms", "CSCE 222 Discrete Structures for", "Contact Office", "TAMU College Station", "USA"]

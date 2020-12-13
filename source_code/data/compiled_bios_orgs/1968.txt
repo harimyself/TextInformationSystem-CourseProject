@@ -1,0 +1,1 @@
+["University of Illinois", "Urbana-Champaign Research Interests Computer Architecture", "Embedded Systems", "Lab Parallel Architectures and Systems Selected Publications Press", "Intnl", "International Conference", "Computer Science University of California", "http://www ics uci edu/~alexv"]

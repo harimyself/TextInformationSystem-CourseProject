@@ -1,0 +1,1 @@
+["the University of Michigan", "the University at Stony Brook", "the Stony Brook CS Department", "XSB", "NSF", "the Association for Logic Programming", "XSB", "Department of Computer Science State University of New York", "cs DOT", "DOT edu"]

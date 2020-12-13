@@ -1,0 +1,1 @@
+["the Computer Science Department", "the Goergen Institute for Data Science", "University of Rochester", "The University of Texas", "ARM Research", "Harvard University", "CSC 252 Computer Organization", "Mobile Systems Architecture", "CSC 572/292", "rochester dot edu Office", "Wegmans Hall", "Twitter"]

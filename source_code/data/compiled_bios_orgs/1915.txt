@@ -1,0 +1,1 @@
+["Stanford", "Computer Science Department", "Stanford", "Microsoft Research", "Berkeley in Computer Science", "Harvard", "The Stanford Theory Group"]

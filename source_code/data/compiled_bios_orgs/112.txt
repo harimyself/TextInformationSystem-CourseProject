@@ -1,0 +1,1 @@
+["COLT", "COLT Steering", "Information and Computation", "the Computer Science Departments Perlis Symposium", "the Association for Computing Machinery", "the Association for Women in Mathematics", "Proc", "SIAM Computing", "Journal of Computer and System Sciences"]

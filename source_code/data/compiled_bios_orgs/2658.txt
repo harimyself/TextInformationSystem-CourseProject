@@ -1,0 +1,1 @@
+["University of Oregon M.S.", "University of Oregon B.A.", "University of Alaska", "Fairbanks Expertise Bioinformatics"]

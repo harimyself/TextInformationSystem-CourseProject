@@ -1,0 +1,1 @@
+["The University of North Carolina", "Fuchs", "NTU Singapore", "ETH Zurich", "NTU", "Tele-Presence", "Tele-Collaboration", "the University of Utah", "PixelFlow", "the National Academy of Engineering", "the American Academy of Arts and Sciences", "ACM", "ACM-SIGGRAPH Achievement Award", "IEEE VGTC 2013"]

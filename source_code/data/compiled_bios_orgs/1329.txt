@@ -1,0 +1,1 @@
+["Fall 2006", "University of Arizona", "Computer Science", "MS", "University of Sci. & Tech", "Computer Science", "BS", "University of Sci. & Tech", "Computer Science", "ACM", "IEEE", "ACM SIGPLAN Conference on Programming Language Design and Implementation", "ACM Transactions", "Architecture and Code Optimization", "Conference", "the Foundations of Software Engineering"]

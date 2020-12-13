@@ -1,0 +1,1 @@
+["Query", "An Application-Oriented Approach Book", "Hebrew University of Jerusalem", "Department of Computer Science", "University of Toronto", "Department of Computer Science", "Stony Brook University", "the Association for Logic Programming", "SUNY", "St. Anne's", "Oxford University", "Stony Brook University"]

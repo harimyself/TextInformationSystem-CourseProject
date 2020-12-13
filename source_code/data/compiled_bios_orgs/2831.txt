@@ -1,0 +1,1 @@
+["| University of Waterloo\t", "Larson\t", "3G1\tOffice", "DC 2518\t", "Multiagent Systems", "Mechanism Design,", "Automated\tNegotiation, Coalition Formation", "the Cheriton School of\tComputer Science", "the University of\tWaterloo", "Carnegie Mellon\tUniversity", "Memorial\tUniversity of Newfoundland", "| Design"]

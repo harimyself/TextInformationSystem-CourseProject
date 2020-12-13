@@ -1,0 +1,1 @@
+["Retired Computer Science Department Boston College Chestnut Hill", "bc dot edu", "Object Oriented Design", "MWF", "MWF", "Application Development", "Apress Publishers", "SimpleDB", "SimpleDB"]

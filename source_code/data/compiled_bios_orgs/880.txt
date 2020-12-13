@@ -1,0 +1,1 @@
+["Computer Science", "the University of Maryland", "the Department of Computer Science of the University of Pittsburgh", "the Advanced Data Management Technologies Laboratory", "ADMT Lab", "Carnegie Mellon University", "CS Dept", "NSF", "ACM SIGMOD", "the Very Large Databases Journal", "ICDE"]

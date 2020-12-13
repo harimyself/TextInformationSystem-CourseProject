@@ -1,0 +1,1 @@
+["Department of Computer Science George Mason University", "NEW IEEE Robotics and Automation Letters", "Program Chair", "Lyon France Program Chair", "IEEE Conference on Computer Vision", "Pattern Recognition", "Best Vision Paper Chair", "IEEE Conference on Robotics Automation"]

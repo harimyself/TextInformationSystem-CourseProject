@@ -1,0 +1,1 @@
+["Toggle", "Human-Centered Computing Asst", "Computer Science Department", "American University Contact", "Office", "Nebraska Ave NW", "the Computer Science Department", "American University", "IEEE VIS", "HICSS", "HFES", "EuroVis", "HotSketch", "Drawing Police Patrol Routes", "HotSketch", "HICSS"]

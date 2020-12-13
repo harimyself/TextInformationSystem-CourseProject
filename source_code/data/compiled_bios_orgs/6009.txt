@@ -1,0 +1,1 @@
+["the Department of Computer Science", "Research & Innovation", "the University of British Columbia", "Tasktop Technologies Incorporated", "VPRIO", "CS", "WordPress", "Akismet"]

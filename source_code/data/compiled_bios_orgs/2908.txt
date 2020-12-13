@@ -1,0 +1,1 @@
+["pgratz@tamu.edu Office:", "Google", "Electrical and Computer Engineering", "the University of Texas", "Research Interests Security", "Selected Publications", "ASPLOS", "Control-Theoretic Approach for Energy Efficient", "Mobile Platforms", "ACM/EDAC/", "Best Paper", "Chip-Multiprocessors", "IEEE/ACM International Symposium", "Best Paper", "ASPLOS"]

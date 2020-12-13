@@ -1,0 +1,1 @@
+["Computer Science Department Brown University", "Vertica Co-Founder", "Aurora / Borealis ( StreamBase Co-Founder", "DBLP", "Advanced Topics in Database Management (Spring", "Boston Bluegrass Union", "International Bluegrass Music Association", "Association for Computing Machinery"]

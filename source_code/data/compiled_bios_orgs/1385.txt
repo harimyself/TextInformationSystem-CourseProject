@@ -1,0 +1,1 @@
+["the National University of Singapore", "NUS", "School of Computing", "CS1010E", "NUS", "Assoc"]

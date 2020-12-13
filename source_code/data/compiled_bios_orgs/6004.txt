@@ -1,0 +1,1 @@
+["mack@cs.ubc.ca Office", "Harvard Univ", "University of British Columbia", "University of British Columbia", "University of British Columbia", "Institute Fellow", "Canadian Inst", "Advanced Research", "Lab for Computational Intelligence", "navigation", "Intelligent Robots and Systems", "Oxford University Press", "Hybrid Systems", "Theoretical Computer Science"]

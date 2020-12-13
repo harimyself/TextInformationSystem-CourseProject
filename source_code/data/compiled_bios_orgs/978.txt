@@ -1,0 +1,1 @@
+["BSc", "UBC", "MSc", "Mathematics", "the University of Toronto", "Computer Science", "the University of Toronto", "Chair of the department of computer science", "the University of Toronto", "the Canadian Applied and Industrial Mathematics Society", "IFIP WG2.5", "Numerical Software", "ACM Transactions", "IFIP", "Room BA4224 University of Toronto"]

@@ -1,0 +1,1 @@
+["SIGGRAPH", "CS", "Washington U.", "Texas A&M", "Baylor", "Baylor", "3D CT", "Pi Studios", "Mathematica", "Java"]

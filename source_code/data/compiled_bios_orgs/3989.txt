@@ -1,0 +1,1 @@
+["Department of Computer Science", "Twitter Calendar Office", "GDC 5.824 Publications", "ACM", "Microsoft Research", "Viewpoints Research", "Microsoft Research", "POPL Conference", "The Design and Implementation of Object Grammars", "Pages 460487", "Best Paper", "SQL"]

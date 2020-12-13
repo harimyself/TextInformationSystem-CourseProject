@@ -1,0 +1,1 @@
+["Aditya Mathur", "Stanford University", "Computational and Mathematical Engineering", "Stanford University", "Computational and Mathematical Engineering", "Harvey Mudd College", "Computer Science and Mathematics", "Matrix", "MPI", "MapReduce", "KDD2012"]

@@ -1,0 +1,1 @@
+["the School of informatics", "University of Edinburgh", "the Ising Model", "the Lovsz Local Lemma Uniform Sampling", "J. ACM"]

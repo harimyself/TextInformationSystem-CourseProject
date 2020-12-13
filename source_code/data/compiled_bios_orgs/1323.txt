@@ -1,0 +1,1 @@
+["EducationBS", "Massachusetts Institute of Technology", "Cornell University", "the Institute for Advanced Study", "the University of Georgia", "Contemporary Mathematics", "American Mathematical Society", "CRC Press", "Sums of Squares of Integers", "CRC Press", "American Mathematical Society", "Bell", "IEEE Trans", "Dependable and Secure Computing"]

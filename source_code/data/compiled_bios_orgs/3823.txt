@@ -1,0 +1,1 @@
+["the Department of Computer Science & Engineering", "the University of Washington", "the Robotics Institute", "Carnegie Mellon University", "University of Illinois", "Urbana-Champaign", "Computer Vision", "Natural Language and Vision"]

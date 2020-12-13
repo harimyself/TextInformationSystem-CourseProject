@@ -1,0 +1,1 @@
+["Lab Website", "Washington University", "the Toyota Technological Institute", "Harvard University", "NSF", "Adobe Research", "NVIDIA", "PhD", "Harvard University", "SM", "Harvard University", "BTech & MTech", "Indian Institute of Technology Madras", "Google"]

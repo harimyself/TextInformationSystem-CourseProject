@@ -1,0 +1,1 @@
+["the UMB Computer Science Department", "BSEE", "Masters degree in Electrical Engineering", "Rensselaer Polytechnic Institute", "National Science Foundation Fellowship", "Computer Architecture and Organization", "the CS department", "CSM Senate", "UMB", "USAF", "Honeywell", "The Codex Corporation", "Motorola", "the Northeastern University State", "Undergraduate Program Director"]

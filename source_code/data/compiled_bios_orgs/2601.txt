@@ -1,0 +1,1 @@
+["Straz Center 88", "Carthage College", "Fortune 500", "IoT", "the University of Wisconsin-Milwaukee", "University of Wisconsin-Milwaukee M.S. Computer", "University of Wisconsin-Milwaukee Ph.D.", "University of Wisconsin-Milwaukee", "CSC", "CSC", "CSC", "Artificial Intelligence and Machine Learning Cleantech"]

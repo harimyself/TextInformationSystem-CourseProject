@@ -1,0 +1,1 @@
+["BA", "Yale", "Stanford Universities", "UI", "Cromemco", "Xerox", "Hewlett-Packard Labs", "Sun Microsystems", "Chair of Computer Professionals for Social Responsibility", "Stanford University", "Mills College", "HCI", "the University of Canterbury", "the SIGCHI Public Policy Committee", "the ACM SIGCHI Academy", "SIGCHI", "Human-Computer Interaction", "Web Bloopers"]

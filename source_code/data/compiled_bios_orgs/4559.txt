@@ -1,0 +1,1 @@
+["MA Research", "Tufts", "IBM Research", "Watson", "the University of Maryland", "EventFlow", "Washington D.C. Childrens Hospital", "the U.S. Army Pharmacovigilance Center", "University of Floridas College of Medicine", "Ph.D., Computer Science", "University of Maryland-College Park", "Computer Science", "University of Maryland-College Park", "Carnegie Mellon University", "ACM"]

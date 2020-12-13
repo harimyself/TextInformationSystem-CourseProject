@@ -1,0 +1,1 @@
+["Cornell University", "VLDB", "the ACM SIGMOD Research Highlight Award", "CACM", "CACM Research Highlight", "Google European", "the German National Academic Foundation", "the Google Research Faculty Award", "CV", "CIDR", "OLAP"]
