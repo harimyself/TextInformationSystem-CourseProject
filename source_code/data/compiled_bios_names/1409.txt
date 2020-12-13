@@ -1,0 +1,1 @@
+face='Gill Sans','Optima-Regular','Georgia','Helvetica','sans-serif','Tahoma'
