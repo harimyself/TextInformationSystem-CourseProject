@@ -1,0 +1,1 @@
+["DOT arizona DOT edu", "University of Arizona Gould-Simpson", "the University of Arizona", "Linguistics and Cognitive Science", "NLP", "Stanford", "Southern Methodist University", "NLP", "University of Arizona", "CSC 585"]

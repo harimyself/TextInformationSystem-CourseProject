@@ -1,0 +1,1 @@
+["Old Chemistry Durham", "Duke University", "the Department of Statistical Science", "the Center for Cognitive Neuroscience", "NSF", "MIT", "EPSRC", "the University of Cambridge", "the Gatsby Unit", "Bayes"]

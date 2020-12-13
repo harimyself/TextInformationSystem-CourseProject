@@ -1,0 +1,1 @@
+["University of Liverpool Departement", "the Departement of Computer Science of the University of Liverpool", "Synchrone", "INRIA Rennes - Bretagne Atlantique", "Global Control for Resource and Energy Management"]

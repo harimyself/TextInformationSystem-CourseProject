@@ -1,0 +1,1 @@
+["University of Toronto Department of Computer Science Multiple MSc", "PhD", "ParaMathics", "CV", "the Machine Learning & HPC", "NSF", "HPCS 2018", "Kazem Cheshmi", "Adobe Research Fellowship", "Cluster17", "Kazem Cheshmi", "First Place", "ACM", "NSF", "Kazem Cheshmi", "First Place", "ECE", "@MaryamDehnavi Maryam Mehri Dehnavi"]

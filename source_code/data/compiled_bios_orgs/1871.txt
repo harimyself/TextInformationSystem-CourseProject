@@ -1,0 +1,1 @@
+["Satisfiability", "George Boole Research Publications CV Systems", "ACSys", "Clark Barrett Department of Computer Science", "Gates 448", "Stanford University", "Stanford"]

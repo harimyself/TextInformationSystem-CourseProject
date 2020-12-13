@@ -1,0 +1,1 @@
+["Computer Science and Electrical Engineering", "Stanford University", "the Stanford Computer Security Lab Address Mail: Computer Science Dept", "Stanford", "94305-9045 Office", "CS Building", "Telephone Office", "Legal and Technical Perspective Spring 18", "Design and Analysis of Algorithms Fall 01", "CS Department", "Stanford University"]

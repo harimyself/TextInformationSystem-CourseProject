@@ -1,0 +1,1 @@
+["the Department of Computer Science", "Georgetown University", "InfoSense", "Georgetown University", "Information Retrieval", "Information Retrieval"]

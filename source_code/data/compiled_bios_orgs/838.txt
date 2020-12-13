@@ -1,0 +1,1 @@
+["Accreditation & assessment", "Hanszen College Faculty", "Divisional", "Computing and Information Systems", "Design & Analysis of Algorithms", "Graduate Research Seminar COMP607", "Office of Academic Advising , Engineering", "RURS", "COMP 400", "COMP 600", "CS Lunch", "TeachLogic", "Carnegie Mellon", "COMP / MSCI / LING", "Sumner Academy of Arts & Science"]

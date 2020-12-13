@@ -1,0 +1,1 @@
+["CSULB", "UC Santa Barbara", "the New York Times", "Scientific American", "UCSB", "UC Irvine", "CSU Long Beach"]

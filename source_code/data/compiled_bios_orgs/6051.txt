@@ -1,0 +1,1 @@
+["Computer Science Department", "Worcester Polytechnic Institute Home Research Publications", "Worcester Polytechnic Institute", "WPI", "Max Plank Institute", "Yale University", "IEEE Spectrum Magazine", "IROS", "ICRA", "Yale Engineering Magazine", "Yale Engineering", "the Yale-CMU-Berkeley Object and Model Set Project", "Full Vision", "MPC", "Paper", "Ayrinti Dergi's"]

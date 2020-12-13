@@ -1,0 +1,1 @@
+["Dept", "Computer Science", "Courant Institute of Mathematical Sciences", "New York University", "Facebook AI Research", "Research Overview", "Machine Learning and Computer Vision", "Deep Learning for Computer Vision", "arXiv", "Astrophysical Journal", "Indoor Segmentation and Support", "ICCV", "ACM Trans", "| Project", "| Project", "ACM Trans"]

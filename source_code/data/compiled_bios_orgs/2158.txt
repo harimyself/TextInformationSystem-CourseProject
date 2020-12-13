@@ -1,0 +1,1 @@
+["Bengio", "Yoshua\t", "theChaire de recherche du Canada", "algorithmes d'apprentissage statistique"]

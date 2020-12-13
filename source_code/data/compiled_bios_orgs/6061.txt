@@ -1,0 +1,1 @@
+["200px", "the Visual Analytics Lab", "Tufts", "VALT", "Remco Chang .", "UNC-Charlotte", "the Charlotte Visualization Center"]

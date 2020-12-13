@@ -1,0 +1,1 @@
+["the Department of Computer", "the University of Chicago", "discrete\\r       ", "I\\r       ", "I\\r       ", "why\\r       ", "tools\\r       ", "uchicago dot", "SOS"]

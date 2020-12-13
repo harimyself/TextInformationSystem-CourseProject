@@ -1,0 +1,1 @@
+["JavaScript", "Office Location Engineering 2", "Deep Learning Biometric Systems Computational Biology Statistical Signal Processing", "Image Processing", "Pattern Recognition", "Adaptive Systems", "Google", "Computer Engineering", "University of Toronto", "Computer Engineering", "University of Toronto", "Canada BS", "Computer Engineering", "Sharif University of Technology"]

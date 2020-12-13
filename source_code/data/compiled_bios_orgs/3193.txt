@@ -1,0 +1,1 @@
+["Department of Computer Science Courant Institute of Mathematical Sciences", "NEW YORK UNIVERSITY", "Courant Institute of Mathematical Sciences Faculty Liaison for Technology", "NYU", "Association for Computing Machinery", "ACM", "Musicomputation", "Computer Science Mentor Program", "Computers and", "Society Committees"]

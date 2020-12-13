@@ -1,0 +1,1 @@
+["Seasholtz University of Kansas BEST Building", "the Electrical Engineering and Computer Science Department", "the University of Kansas", "Information Technology", "Information Security", "Security of Unmanned Aerials Vehicles", "IoT Security", "Systems Security", "the KU Information Security Club", "the BSIT Information Security Club", "orderedlist"]

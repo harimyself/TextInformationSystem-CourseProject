@@ -1,0 +1,1 @@
+["University of Washington BA", "Physics and Mathematics", "Whitman College", "theCollege of Computer and Information Science", "Bachelors Degree in Physics and Mathematics", "Whitman College", "the University of Washington", "Microsoft", "Microsoft", "Graphical User Interface", "Microsoft", "CS", "Microsoft", "GDI", "Microsoft", "Amazon"]

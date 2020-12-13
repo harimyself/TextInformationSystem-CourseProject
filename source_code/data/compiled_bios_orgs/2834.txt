@@ -1,0 +1,1 @@
+["Home ]\t", "University Avenue West\t", "3G1", "Canada\tOffice", "the ACM Programming Contest\t", "Scala.\t", "Scala\t", "Scala\tOOPSLA16", "Northeastern U.)\tDan Brotherston(TD Bank"]

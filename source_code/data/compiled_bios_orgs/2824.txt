@@ -1,0 +1,1 @@
+["The Craig Web Experience\t", "Canada\tOffice", "x34589\t", "the Computer\tGraphics Lab", "Machine Learning in Computer Graphics\t", "the\tBridges Conference", "the University of Washington"]

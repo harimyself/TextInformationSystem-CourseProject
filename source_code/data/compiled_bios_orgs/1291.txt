@@ -1,0 +1,1 @@
+["University of Roorkee, Computer Science and Technology", "MS", "Wayne State University", "Computer Engineering", "University of Minnesota", "Computer Science", "American Association for Advancement of Sciences", "PublicationsBogdan Carbunar", "ACM Transactions on Sensor Networks", "Journal of Computational Biology", "Journal of Parallel and Distributed Computing"]

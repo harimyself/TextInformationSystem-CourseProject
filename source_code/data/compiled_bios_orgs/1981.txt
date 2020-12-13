@@ -1,0 +1,1 @@
+["Wireless Mobile Communication", "George Washington University", "Computer Science", "George Washington University", "BS", "Mathematics", "Uludag University", "Wireless Mobile Communications", "NIST", "Machine Learning", "Applied Data Science", "Neural Networks"]

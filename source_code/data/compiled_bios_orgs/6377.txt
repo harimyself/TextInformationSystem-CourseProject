@@ -1,0 +1,1 @@
+["USACSAuthor of novel", "CS", "Rutgers", "CS & Engg", "Indian Institute of Technology"]

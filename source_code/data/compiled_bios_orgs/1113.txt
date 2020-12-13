@@ -1,0 +1,1 @@
+["Computer Science", "Department of Computer Science California Polytechnic State University 1 Grand Avenue", "CSC 430", "CSC", "CSC 430", "CSC", "CSC 430", "CSC 430", "CSC", "CSC", "CSC", "CSC", "Data Structures"]

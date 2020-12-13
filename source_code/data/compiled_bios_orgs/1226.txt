@@ -1,0 +1,1 @@
+["Department Computer Science and Engineering Telephone", "CMPS", "SOE3", "UC Santa Cruz", "SAP", "Applied Research Fellow", "SAP", "Sun Microsystems", "Enterprise Java", "J2EE", "JEE", "Suns CTO", "Research Staff", "IBM Almaden Research", "the Transaction Management Facility and System-Managed Storage at Tandem Computers", "Research Areas Database"]

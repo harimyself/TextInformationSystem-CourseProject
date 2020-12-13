@@ -13,7 +13,7 @@ from PreProcessor import PreProcessor
 
 import sys
 """
-    This script reads the crawled data from path defined variable "crawled_data_path", trained XGBoost model from the path defined in "model_base_path".
+    This script reads the crawled data from path defined variable "crawled_data_path", trained XGBoost model.
     Uses the trained model to classify faculty pages.
     
     :input locations crawled_data_path: File path where crawled data is stored.
@@ -21,10 +21,10 @@ import sys
 crawled_data_path = '../Crawl-n-Extract/Merge/UIUC.txt'
 
 # As we use same tf-idf vectorizer as used by our NN model, so loading the same here.
-vectorizer:TfidfVectorizer = pickle.load(open('../neural_network_ml_classifier/fully_trained_model/vectorizer/vectorizer_object', 'rb'))
+vectorizer:TfidfVectorizer = pickle.load(open('../data/improved_vectorized_data/vectorizer_object_new', 'rb'))
 
 # Loading the saved model
-xgbModel = joblib.load('xgb.model')
+xgb_model = joblib.load('xgb.model')
 
 def run_inference(data_file=crawled_data_path):
     print(f"Loading data for inference from location: {data_file}")
@@ -51,8 +51,8 @@ def run_inference(data_file=crawled_data_path):
 
     print("Working on classifying the faculty pages using pre-trained xgboost model..")
     
-    processed_line_vec = vectorizer.fit_transform(processed_lines)
-    predicted_values = xgbModel.predict(processed_line_vec)
+    processed_line_vec = vectorizer.    transform(processed_lines)
+    predicted_values = xgb_model.predict(processed_line_vec)
     predicted_values_labeled = [round(value) for value in predicted_values]
 
     faculty_count = 0
@@ -60,7 +60,7 @@ def run_inference(data_file=crawled_data_path):
     for idx in range(len(predicted_values_labeled)):
         if predicted_values_labeled[idx] == 1:
             faculty_count += 1
-            print(data[idx])
+            print(data[idx].split('#####')[0])
 
 if __name__ == "__main__":
     run_inference(sys.argv[1] if len(sys.argv) > 1 else crawled_data_path)

@@ -1,0 +1,1 @@
+["Electrical Engineering & Computer", "MS, Electrical Engineering", "University of Washington BA", "Physics", "Whitman College Research and", "SITP", "the University of Washington Recent Publications", "Venator", "IEEE", "Cockrell", "IEEE", "Vick,", "EnergyTech", "IEEE", "UAV", "IEEE"]

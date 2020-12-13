@@ -1,0 +1,1 @@
+["Education Ph.D. Brown University", "Mathematics Research Interests", "Pseudorandom Sequences for Cryptography and Communications"]

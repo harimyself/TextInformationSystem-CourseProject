@@ -1,0 +1,1 @@
+["Fall 2016", "Carnegie Mellon University", "Computer Science", "BS", "Carnegie Mellon University", "Computer Science", "Carnegie Mellon University", "Microsoft Research New England", "PublicationsEfficiently Computing Data Independent Memory Hard Functions", "NDSS", "EC 2013"]

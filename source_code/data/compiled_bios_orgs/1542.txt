@@ -1,0 +1,1 @@
+["Department of Computer Science Education Ph.D.", "Auburn University", "Computer Science and Software Engineering", "Dynamic Trust Relationships", "Mobile Crowd-Sensing", "IEEE Internet of Things Journal", "IEEE Access", "Wang", "IEEE Communications", "Google"]

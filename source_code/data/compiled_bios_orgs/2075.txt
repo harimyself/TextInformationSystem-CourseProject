@@ -1,0 +1,1 @@
+["Department of Computer Science Contact Building & Room", "CV", "NSF", "NSF", "NIH", "Oustanding Research Awards", "the Electronic Visualization Laboratory", "the University of Illinois at Chicago", "UIC", "Research Faculty", "the Robotics Institute", "Carnegie Mellon University", "the Interdisciplinary Visualization Research Lab", "the Rust Belt", "Brown University"]

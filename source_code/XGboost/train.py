@@ -15,7 +15,7 @@ import joblib
     We are then using those vectorized data set to train a XGBoost Model (Ref: https://xgboost.readthedocs.io/en/latest/, https://xgboost.readthedocs.io/en/latest/parameter.html, https://xgboost.readthedocs.io/en/latest/tutorials/saving_model.html)
 """
 
-PROCESSED_DATA_BASE_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../data/classificationData/'
+PROCESSED_DATA_BASE_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../data/improved_vectorized_data/'
 
 def load_data():
         print("Starting to loading train data..")
@@ -32,7 +32,7 @@ def load_data():
         Y_test = pickle.load(open(PROCESSED_DATA_BASE_PATH + 'test/Y', 'rb'))
         print("Finished loading test data..")
 
-        return X_train, np.array(Y_train), X_test, np.array(Y_test)
+        return X_train, np.array(Y_train).reshape(-1, 1), X_test, np.array(Y_test).reshape(-1, 1)
 
 def train():
     X_train, Y_train, X_test, Y_test = load_data()
@@ -49,11 +49,12 @@ def train():
         'n_estimators' : 2,
         'objective' : 'binary:logistic',
         'use_label_encoder' : False,
+        'eval_metric': 'logloss'
     }
 
-    label_encoder = LabelEncoder().fit(Y_train)
-    label_encoder_y_train = label_encoder.transform(Y_train)
-    label_encoder_y_test =  label_encoder.transform(Y_test)
+    label_encoder = LabelEncoder().fit(Y_train.ravel())
+    label_encoder_y_train = label_encoder.transform(Y_train.ravel())
+    label_encoder_y_test =  label_encoder.transform(Y_test.ravel())
     # fit model no training data
     xgb_model = XGBClassifier(**xgb_params)
     bst = xgb_model.fit(X_train, label_encoder_y_train.ravel())

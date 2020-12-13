@@ -1,0 +1,1 @@
+["CS", "EC", "Texas Tech University Department of Computer Science Box", "TX 794093104 Research Group Website", "Scalable Parallel/Distributed Computing Research Interests Parallel", "Mathematics", "Louisiana State University", "Computer Science", "Louisiana State University"]

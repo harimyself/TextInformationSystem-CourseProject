@@ -1,0 +1,1 @@
+["NUS", "the School of Computing ,", "National University of Singapore", "the Pattern Recognition and Machine Intelligence Association", "PREMIA", "the International Association for Pattern Recognition", "the Defence Science and Technology Agency"]

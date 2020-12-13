@@ -1,0 +1,1 @@
+["Current Teaching Activities Topics", "ORIE", "S.A. Plotkin", "Mathematics of Operations Research 20, 1995", "Combinatorial Optimization", "eds.", "AMS", "NP", "PWS", "National Academy of Sciences 94, 1997", "Linear", "the Design and Analysis of Approximation Algorithms: Two Illustrative Problems", "Springer"]

@@ -1,0 +1,1 @@
+["Cheriton School of Computer Science\t", "Optimization Methods in Computer Vision and Image Processing", "Graduate Summer School: Computer Vision", "TCPAMI", "ICCV 2011\t", "MSc/"]

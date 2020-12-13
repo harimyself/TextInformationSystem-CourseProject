@@ -1,0 +1,1 @@
+["Department Electrical and Computer Engineering Computer Science and Engineering Office Location Engineering 2", "Degree Masters", "UC Santa Cruz Bachelors of Science In Computer Engineering", "UC Santa Cruz Bachelors of Science In Electrical Engineering", "UC Santa Cruz"]

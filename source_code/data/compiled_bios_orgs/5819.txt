@@ -1,0 +1,1 @@
+["Texas Tech University", "Artificial Intelligence", "Department of Computer Science", "P.O. Box 43104"]

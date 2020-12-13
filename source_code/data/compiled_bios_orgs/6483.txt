@@ -1,0 +1,1 @@
+["Russell Impagliazzo Department of Computer Science and Engineering Temp", "University of California", "IAS", "CSE", "Berkeley", "Simons Institute", "T.Pitassi", "Lower Bounds", "Hilbert's Nullstellensatz", "DPLL", "Hilbert", "Hill", "Computational Complexity", "Hardcore Distributions", "Derandomized", "SIAM Journal of Computing", "A. Urqhart", "A. Wigderson Pseudorandomness"]

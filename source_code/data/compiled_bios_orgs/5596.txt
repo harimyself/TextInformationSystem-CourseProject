@@ -1,0 +1,1 @@
+["Texas A&M University Office", "CV", "Google", "the Computer Science and Engineering department", "Texas A&M University", "CSE", "UC San Diego", "ECE", "UC Santa Barbara", "CV", "CSCE", "CSCE", "Google", "Deep Adaptive Sampling for Low Sample Count Rendering"]

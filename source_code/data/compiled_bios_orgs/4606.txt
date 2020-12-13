@@ -1,0 +1,1 @@
+["Washington University", "MS", "Washington University", "BS", "Ball State University", "Washington University"]

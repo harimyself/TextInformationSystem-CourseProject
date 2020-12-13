@@ -1,0 +1,1 @@
+["Department of Computer Science George Mason University Office", "ENGR 4427", "the Creativity and Graphics Lab", "George Mason University", "GMU", "Department of Computer Science", "the National Science Foundation", "Google", "Adobe", "Adobe Creative Cloud", "Events Capital Graphics"]

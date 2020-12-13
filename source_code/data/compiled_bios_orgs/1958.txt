@@ -1,0 +1,1 @@
+["Department of Computer Science and Department of Informatics", "School of Information and Computer Sciences University of California", "Office", "CMU", "ICS", "Information and Computer Sciences", "ICS", "ICS 193", "Ada", "Ada", "the NY Times", "CMU", "UCI", "The Power of Mathematical Thinking", "Lipton", "Social Processes and Proofs", "ACM"]

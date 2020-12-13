@@ -1,0 +1,1 @@
+["the Department of Computer and Information Science", "Virginia Tech", "University of Picardie Jules Verne", "the ACM Special Interest Group on Computer Science Education", "the National Society of Black Engineers", "NSBE"]

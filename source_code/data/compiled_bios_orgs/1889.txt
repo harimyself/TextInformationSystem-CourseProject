@@ -1,0 +1,1 @@
+["Bio Research Group Publications", "Stanford University", "Sound Synthesis for Computer Animation ACM SIGGRAPH", "Press", "Stanford Press", "CS 146 & CS", "Kelvinlets", "BounceMaps", "Pixar", "Contact Address Gates Computer Science Building", "Room 362 Department of Computer Science Stanford University", "Serra Mall"]

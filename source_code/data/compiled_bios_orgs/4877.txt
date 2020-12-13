@@ -1,0 +1,1 @@
+["Syracuse University", "Graduate Studies Research Center   ", "Computer Vision", "Pattern Recognition", "Image Processing", "Artificial Intelligence", "Parallel Processing", "Computer Vision", "Pattern Recognition", "Image Processing", "Artificial Intelligence", "Parallel Processing"]

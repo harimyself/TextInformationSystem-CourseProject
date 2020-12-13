@@ -1,0 +1,1 @@
+["Education - Barry University", "MBA - Florida Institute of Technology", "MIS - DeVry University", "BS", "Computer Science - Florida Southern College", "BS", "Financial Management - Florida Southern", "LeadershipBusiness, Technology,", "the Department of Defense", "Oracle", "Florida Sate University", "Network Security"]

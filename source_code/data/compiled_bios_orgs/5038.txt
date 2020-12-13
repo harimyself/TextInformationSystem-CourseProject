@@ -1,0 +1,1 @@
+["Ph.D.", "Mobile Computing Education Ph.D. Computer Science and Engineering", "Pennsylvania State University", "M.S. Computer Science and Engineering", "Pennsylvania State University", "B.S. Computer Science", "University of Richmond", "Research Interests Cellular", "Mobile Security Internet Security Systems Security", "NSF", "Center for Financial Inclusion", "Accion"]

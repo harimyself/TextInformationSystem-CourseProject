@@ -1,0 +1,1 @@
+["School of Information University of Michigan 4380", "umich DOT edu", "DOT", "the School of Information", "the University of Michigan", "Interaction Ecologies", "UMSI", "the Palo Alto Research Center", "PARC", "Xerox PARC", "Computer Science", "UC Berkeley", "the University of Michigan", "LinkedIn", "Facebook", "Twitter", "Google", "Mountain View"]

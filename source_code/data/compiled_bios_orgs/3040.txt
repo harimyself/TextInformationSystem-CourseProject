@@ -1,0 +1,1 @@
+["This Web Site", "Artificial Intelligence", "Computer Science Dept", "Wayne State University", "CSC", "CSC 6800", "CRT", "CRT", "CSC 5800", "CRT", "Research Interest Multi-Agent Modeling Evolutionary Computation"]

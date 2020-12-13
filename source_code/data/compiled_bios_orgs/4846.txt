@@ -1,0 +1,1 @@
+["Engineering Department of Computer Science", "Gates Hall Cornell University", "cs dot", "Matrix", "Daisy Fan", "Block Tensors", "Symmetric Embeddings", "Block Tensor Unfoldings", "NSF Workshop", "CSE", "Cornell", "Computational Science and Engineering", "Post-Docs", "CS"]

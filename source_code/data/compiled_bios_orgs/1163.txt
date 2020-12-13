@@ -1,0 +1,1 @@
+["W3 Community Open Annotation Ontology", "Lattice Theory", "Audubon Core", "Vita Research", "Electronic Field Guide Low Vision Reading RDF", "GRDDL"]

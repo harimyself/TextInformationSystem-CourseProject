@@ -1,0 +1,1 @@
+["Carnegie-Mellon University", "Computer Science", "SM", "Massachusetts Institute of Technology, Computer Science", "Massachusetts Institute of Technology, Computer Science", "Ford Motors", "Sandia National Laboratory", "Computer-Aided Design", "90c", "Min-Ho Kyung", "GPU Implementation\"", "International Journal of Computational Geometry and Applications"]

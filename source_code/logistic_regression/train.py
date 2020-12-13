@@ -4,8 +4,13 @@ import os
 import pickle
 import numpy as np
 import joblib
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
 
-PROCESSED_DATA_BASE_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../hari_data_processed/'
+from PreProcessor import PreProcessor
+
+
+PROCESSED_DATA_BASE_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../data/improved_vectorized_data/'
 
 def load_data():
         print("Starting to loading train data..")
@@ -24,11 +29,14 @@ def load_data():
 
         return X_train, np.array(Y_train), X_test, np.array(Y_test)
 
+
 def main():
     X_train, Y_train, X_test, Y_test = load_data()
 
+    print(f"X_train: {X_train.shape}, Y_train: {Y_train.shape}, X_test: {X_test.shape}, Y_test: {Y_test.shape}")
+
     # fit model no training data
-    logisticRegr = LogisticRegression()
+    logisticRegr = LogisticRegression(solver='lbfgs')
     logisticRegr.fit(X_train, Y_train.ravel())
 
     y_pred = logisticRegr.predict(X_test)

@@ -1,0 +1,1 @@
+["School of Computer Science & Engineering", "University of Washington", "the University of Washington, Computer Science & Engineering Department", "the Human-Centered Robotics Lab", "Electrical & Electronics Engineering", "Computer Engineering", "Robotics", "the Kovan Lab", "the Georgia Institute of Technology", "the Socially Intelligent Machines Lab", "Willow Garage, Inc."]

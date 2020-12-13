@@ -1,0 +1,1 @@
+["Electrical Engineering", "Cairo University", "BS", "Ein-Shams University", "MS (Computer Science", "the University of Pittsburgh", "the Department of Computer Science", "Purdue University", "the Department of Mathematics", "the University of Pittsburgh"]

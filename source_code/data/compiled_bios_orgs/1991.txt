@@ -1,0 +1,1 @@
+["Computer Science", "University of Oklahoma MA", "Computer Science", "University of Oklahoma BA", "Economics", "College of Economics and", "Computer Science", "Computer Science", "American University", "Computer Science", "the University of Oklahoma", "ACM", "IEEE", "ISCA", "ACM", "IEEE", "ISCA", "the Software and Information Engineering of the ISCA Journal"]

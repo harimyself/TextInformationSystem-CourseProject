@@ -1,0 +1,1 @@
+["the School of Operations Research and Information Engineering", "Cornell", "Departments of Computer Science", "ECE", "the Center for Applied Mathematics", "Lyft", "the ECE Department", "the Social Algorithms Lab", "Stanford", "NSF", "NSF", "DMS", "ARL Network Sciences", "Lyft", "the Simons Institute Real-Time Decision"]

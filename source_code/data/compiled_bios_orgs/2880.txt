@@ -1,0 +1,1 @@
+["CECS Department", "California State University", "www.csulb.edu/~pnguyen Office Hours:", "CECS", "ECS", "ECS", "ECS", "CECS", "ECS", "ECS"]

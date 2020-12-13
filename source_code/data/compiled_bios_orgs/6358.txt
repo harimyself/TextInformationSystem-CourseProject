@@ -1,0 +1,1 @@
+["Rutgers University", "'Mining Association Rules Between Sets of Items in Large DataBases'", "Association", "Imieliski", "asImieliski-Lipski Algebras", "Imieliski", "Imieliski", "Computer Science Department", "Rutgers", "Connotate Technologies", "VP", "Data Solutions atIAC"]

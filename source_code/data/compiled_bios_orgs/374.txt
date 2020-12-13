@@ -1,0 +1,1 @@
+["Electrical Engineering and Computer Science", "Columbia University", "Electrical Engineering and Computer Science", "Columbia University", "B.S., Electrical Engineering", "Polytechnic Institute of Bucharest", "Semantic Technologies", "Machine Learning", "Artificial Intelligence", "Parallel and Distributed Processing"]

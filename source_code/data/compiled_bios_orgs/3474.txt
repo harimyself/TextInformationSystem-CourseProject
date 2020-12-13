@@ -1,0 +1,1 @@
+["General Electric", "American Electric Power", "Duke Energy", "Midcontinent Independent System Operators", "Indianapolis Power & Light", "Cummins", "Caterpillar", "the Institute of Electrical and Electronic Engineerscentral"]

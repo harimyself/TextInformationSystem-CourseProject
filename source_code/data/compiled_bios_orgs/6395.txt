@@ -1,0 +1,1 @@
+["Job Titles Department Chair", "College of Arts and Sciences Highlight Gossett", "COMAP", "Bethels ACM International Collegiate Programming Competition", "Bethel University - B.A. in Mathematics", "Bethel University - B.S. in Computer Science", "University of Minnesota - Ph.D.", "Computer Science", "COMAP", "Bethels ACM International Collegiate Programming Competition"]

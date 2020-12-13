@@ -1,0 +1,1 @@
+["UMass Boston", "TOPLAS", "ACM", "ACM", "Journal of Logical and Algebraic Methods in Programming", "LNCS", "Springer", "EPTCS", "ACM", "Springer", "EPTCS", "EPTCS", "UMass Boston", "Georgia Tech", "Rice University", "Research", "Imperial College London", "Nobuko Yoshida", "Rice University", "Universidade"]

@@ -1,0 +1,1 @@
+["Department of Computer Science Stony Brook University", "NCS", "ACM", "NSF", "NSF", "UIST", "Google", "UIST", "Google", "Stony Brook University"]

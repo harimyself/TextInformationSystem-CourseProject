@@ -1,0 +1,1 @@
+["the University of Rochester", "Sloan", "the Salk Institute for Biological Studies", "UW", "NSF", "Sloan Faculty Fellowship", "Lucile Packard", "Probabilistic Models of the Brain", "Bayesian Brain", "the Neural Systems Laboratory", "UW CSE"]

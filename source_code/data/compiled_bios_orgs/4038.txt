@@ -1,0 +1,1 @@
+["the Computer Science Department", "the Institute for Computational Engineering and Sciences", "the University of Texas", "the Columbia Computer Graphics Group", "Harvard SEAS .", "GDC 5.508", "Artec", "Shapify 3D portrait service", "Physical Simulation Geometry Processing and Design Miscellaneous"]

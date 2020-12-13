@@ -1,0 +1,1 @@
+["Carnegie Mellon University", "CMU", "the Computer Science Department", "Boston University", "Computer Science", "ATS", "ACM", "POPL", "ATS", "Linear Type System for Multicore Programming,", "Modality for Safe Resource Sharing and Code"]

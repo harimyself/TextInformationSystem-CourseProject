@@ -1,0 +1,1 @@
+["Vanderbilt University", "USA", "BS", "Computer Science", "Yale University", "Computer Science", "princeton University"]

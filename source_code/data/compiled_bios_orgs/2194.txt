@@ -1,0 +1,1 @@
+["Department of Computer Science Stony Brook University", "cs dot stonybrook dot edu", "the University of Washington", "the Allen Institute for Artificial Intelligence", "Computer Science", "the University of Massachusetts Amherst", "the Center for Intelligent Information Retrieval (CIIR", "arxiv", "QA", "EMDL", "UG", "QA", "Efficient Recurrent Neural Network Execution"]

@@ -1,0 +1,1 @@
+["University of Texas Email", "Brent Waters Department of Computer Science", "The University of Texas", "Grace Murray Hopper Award", "Packard Fellowship", "Microsoft", "Sloan Fellowship", "AGPL", "DBLP", "the University of Columbia Yannis Rouselakis", "Google", "Weizmann Teaching Spring 2019", "CS"]

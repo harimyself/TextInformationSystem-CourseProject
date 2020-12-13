@@ -1,0 +1,1 @@
+["Data", "Computer Science & Engineering Department", "University of California", "ucsd dot edu", "the Interdisciplinary Ph.D. Program", "IDP", "Cognitive Science", "the Temporal Dynamics of Learning Center", "IDP", "Neuroscience", "the Computer Science & Engineering Department", "UCSD", "the AI Group", "UCSD", "Gary's Unbelievable Research Unit"]
