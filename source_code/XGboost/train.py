@@ -6,9 +6,16 @@ from sklearn.preprocessing import LabelEncoder
 import os
 import pickle
 import numpy as np
+import joblib
 
+"""
+    This script reads the preprocessed data (i.e raw data with stopwords removed, words stemmed and each page vectorized using Tf-Idf vectorized.
+    We have used PreProcessor.py to preprocess the data (data/positive.txt which is from compile bios and data/negative.txt which are general web pages crawled using our Crawl-n-Extract module) and produce vectorized train and test set. This is the same dataset we have used for building Logistic Regression as well as Neural Network models)
 
-PROCESSED_DATA_BASE_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../hari_data_processed/'
+    We are then using those vectorized data set to train a XGBoost Model (Ref: https://xgboost.readthedocs.io/en/latest/, https://xgboost.readthedocs.io/en/latest/parameter.html, https://xgboost.readthedocs.io/en/latest/tutorials/saving_model.html)
+"""
+
+PROCESSED_DATA_BASE_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../data/classificationData/'
 
 def load_data():
         print("Starting to loading train data..")
@@ -51,9 +58,7 @@ def train():
     xgb_model = XGBClassifier(**xgb_params)
     bst = xgb_model.fit(X_train, label_encoder_y_train.ravel())
 
-    bst.save_model('xgb.model')
-
-
+    joblib.dump(xgb_model, 'xgb.model')
 
     y_pred = xgb_model.predict(X_test)
     predictions = [round(value) for value in y_pred]
