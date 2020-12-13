@@ -14,8 +14,8 @@ from source_code.neural_network_ml_classifier.data_processor.PreProcess import P
         crawled_data_path: File path where crawled data is stored.
         model_base_path: Path to tensorflow ML model fully trained and saved.
 """
-crawled_data_path = '../../Crawl-n-Extract/Merge/UTexas.txt'
-model_base_path = '../fully_trained_model/neural_network_model_v2/'
+crawled_data_path = '../../Crawl-n-Extract/Merge/UIUC.txt'
+model_base_path = '../fully_trained_model/'
 
 
 print("Loading trained model from: ", model_base_path + '/model')
