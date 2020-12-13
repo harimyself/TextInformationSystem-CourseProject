@@ -1,0 +1,1 @@
+["College of Arts and Sciences", "Eastern Oregon University", "Computer Science", "University of Notre Dame - Ph.D.", "Computer Science and Engineering", "Eastern Oregon University", "Computer Science"]

@@ -1,0 +1,1 @@
+["Chair Division of Computer Science School of Computing 221 McAdams Hall Clemson", "Clemson", "the National Science Foundation", "the Department of Education", "BMW", "HPCC Systems", "LexisNexis", "Elsevier", "Scopus", "Relx Group", "Amazon", "Data Intensive Computing Lab Course Information Cloud Computing Architecture", "Parallel Computer Architecture", "CPSC"]

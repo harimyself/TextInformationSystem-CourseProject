@@ -1,0 +1,1 @@
+["Electrical Engineering Ph.D.", "Howard University", "Electrical Engineering M.Eng", "Howard University", "Howard University", "Philosophy B.A. 2001 Howard University", "ACM", "FPGA", "Reconfigurable Systems and Algorithms", "ERSA", "Global World Technology", "Bison Reconfigurable Processor", "Global World Technology", "Global World Technology"]

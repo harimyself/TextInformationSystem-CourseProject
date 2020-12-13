@@ -1,0 +1,1 @@
+["Department of Computer Science Department of Applied Mathematics State University of New York", "http://www.cs.stonybrook.edu/~gu Center of Visual Computing Lectures Talks Publication Software Tutorial Gallery", "Uniformization", "Unformization", "Poincare", "Medical Imaging"]

@@ -1,0 +1,1 @@
+["the Department of Computer Science", "the University of North Carolina", "Mathematics and Computer Science", "the University of WisconsinMadison", "the University of California, Berkeley", "the Berkeley Computer Vision Group", "Yahoo", "Computer Science", "Stony Brook University", "Digital Art", "the Department of Computer Science"]

@@ -1,0 +1,1 @@
+["Computer Science Department Swarthmore College", "College Ave Swarthmore", "Science Center", "Computer Science", "Swarthmore College", "the University of Toronto", "Harvard", "SCI 181 Lab A"]

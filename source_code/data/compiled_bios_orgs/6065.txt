@@ -1,0 +1,1 @@
+["Worcester Polytechnic Institute", "01609-2280 Office", "Fuller Labs", "Intro to Machine Organization and Assembly Language C-Term", "Computer Architecture", "the Computer Science Department", "the CS Department", "MQP Topics", "MQP", "ECE", "CS", "MQP", "the Math Genealogy Project at https://genealogy.math.ndsu.nodak.edu/"]

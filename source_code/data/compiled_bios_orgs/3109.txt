@@ -1,0 +1,1 @@
+["Simon Fraser University Contact Information Email", "phoneemail only) Office", "TASC", "CMPT", "CMPT", "Big Data Lab I)", "Queen's University", "M.Sc.", "Simon Fraser University", "The School of Computing Science"]

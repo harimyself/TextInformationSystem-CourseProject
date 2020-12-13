@@ -1,0 +1,1 @@
+["EducationBS", "University of Cluj-Napoca", "Computer Science", "MS", "University of North Carolina", "Computer Science", "University of North Carolina", "Computer Science", "IEEE Visualization Conference", "IEEE Visualization", "ChrisWyman", "XavierTricoche", "IEEE Transactions on VisualizationandComputerGraphics"]

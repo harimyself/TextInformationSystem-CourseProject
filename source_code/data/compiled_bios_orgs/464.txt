@@ -1,0 +1,1 @@
+["the Department of Computer Science", "the College of the University of Chicago", "MIT", "Elasticity Primitives for Database", "the University of California", "Divy Agrawal", "the University of Chicago", "UChicago", "UChicago", "UChicago", "the SIGMOD 2017 Student Research Competition", "VLDB 2017 Proceedings", "ACM"]

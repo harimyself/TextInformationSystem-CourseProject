@@ -1,0 +1,1 @@
+["Department of Computer Science and Engineering Resident Fellow, Institute", "the Environment University of Minnesota", "Twin Cities CV Research", "Machine Learning", "Information Theory", "Convex Analysis and Optimization", "Text and Web Mining", "Climate Sciences", "Social Networks", "Bioinformatics", "KDD", "MN 55455 Office"]

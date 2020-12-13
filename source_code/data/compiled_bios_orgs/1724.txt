@@ -1,0 +1,1 @@
+["School of Computer Science McGill University", "McGill University", "the Program Co-Chair", "the Foundations of Software Engineering", "ACM", "Computer Science", "the University of British Columbia", "cole Polytechnique de Montral"]

@@ -1,0 +1,1 @@
+["BS", "Mathematics and Computer Science", "Iowa State University", "the University of Wisconsin-Madison", "Journal of Scheduling", "Journal of Computing", "ACM Transactions"]

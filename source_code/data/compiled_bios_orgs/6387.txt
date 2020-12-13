@@ -1,0 +1,1 @@
+["College", "Heis", "ACM", "ACM/SIGCSE", "Philadelphia University", "ACM", "Panels/SSs", "SIGCSE 2005 Publications", "CCSCE", "K-12 Liaison", "PACSE", "CSTA-Philly"]

@@ -1,0 +1,1 @@
+["Cornell University Computer Science Department", "cs dot cornell dot edu", "the economics department", "Princeton", "NSF", "ARO", "the Open Philanthropy Foundation", "Economics"]

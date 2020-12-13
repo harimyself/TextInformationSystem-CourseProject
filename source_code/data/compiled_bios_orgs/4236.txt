@@ -1,0 +1,1 @@
+["Department of Electrical Engineering and Computer Science", "EECS Office", "Eaton Hall", "Visualization", "OpenGL", "Tutorial", "EECS", "Advanced Graphics", "the KU Spencer Museum of Art", "NASA", "Other Activities and Interests", "the Arc of the United States", "Microbrewery Quality Assurance", "FSB", "23rd St", "LBC"]

@@ -1,0 +1,1 @@
+["the School of Computer Science", "the University of Oklahoma", "Computer Science and Engineering", "the University of Minnesota", "Cognitive Science", "BS", "Computer Science", "Iowa State University", "Philosophy and Mathematics", "OU", "iPhone", "OU2GO"]

@@ -1,0 +1,1 @@
+["CIPPRS", "CognoVision", "Intel", "Google", "Mountainview", "Tangam Gaming", "UofT", "Philips Healthcare", "Mitacs", "NodeThirtyThree"]

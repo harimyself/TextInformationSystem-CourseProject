@@ -1,0 +1,1 @@
+["ECE Department", "University of California", "CSE", "Bioinformatics", "Center for Microbiome Innovation", "Sloan Research", "NSERC", "Howard Hughes Medical Institute", "ACM", "Sloan Research Fellowship", "Computational & Evolutionary Molecular Biology", "ECE", "Siavash Mirarab smirarab@ucsd.edu"]

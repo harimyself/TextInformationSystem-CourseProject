@@ -1,0 +1,1 @@
+["Faculty - College of Information Systems E", "Chemical Engineering - University of Southern California", "MBA - University of California", "BS - Engineering", "Additional Training Teaching Faculty", "Trident University International", "Bachelor of Science in Computer Science Bachelor of Science in Information Technology Management Master of Science in", "IT Project Management"]

@@ -1,0 +1,1 @@
+["BBC", "Scottish Legal", "Daily Mail", "Scotsman", "Scottish Daily Mail", "Digital Trends", "Amazon", "AMR", "AMR", "the Lisbon Machine Learning School", "NLP", "NLP", "NAACL", "CMU", "Columbia", "NLP (Spring", "IBM", "Probability and Structure", "NLP", "MPhil", "Data L-PCFG", "ACL", "CTREES", "Crichton Street Informatics Forum"]

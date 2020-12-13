@@ -1,0 +1,1 @@
+["Elad Hazan Princeton University Department of Computer Science Theoretical Machine Learning Co-Lead", "Google", "CS", "the Simons Institute", "Berkeley: Optimization for Machine Learning"]

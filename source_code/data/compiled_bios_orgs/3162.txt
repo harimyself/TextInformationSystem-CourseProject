@@ -1,0 +1,1 @@
+["Computer Graphics", "Computing Science B.E.S. Electrical Engineering and Computer Science", "The Johns Hopkins Univ.", "McGill Univ", "Laboratory Affiliations:", "Algorithms Laboratory"]

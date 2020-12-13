@@ -1,0 +1,1 @@
+["the BU Department of Computer Science", "Airbnb", "Groupon", "the Board of Directors", "Cogo Labs", "Adverplex, Inc.", "Cogo", "the Hotel Industry", "the Journal of Marketing Research", "JMR", "Groupon", "ACM Conference on Electronic Commerce", "Networked Systems Design and Implementation"]

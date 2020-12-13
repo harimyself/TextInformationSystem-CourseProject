@@ -1,0 +1,1 @@
+["Human-Computer Interaction", "Computer Graphics", "Animation", "Indiana University", "NASA", "ACM SIGCSE", "SIGGRAPH", "Sony", "the American Sign Language Project"]

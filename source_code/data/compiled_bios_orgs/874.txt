@@ -1,0 +1,1 @@
+["the Department of Computer Science", "BS", "Computer Science and Engineering", "UCLA", "Computer Science", "Harvard University"]

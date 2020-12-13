@@ -1,0 +1,1 @@
+["Wayne State University", "Applied Mathematics", "Wayne State University", "Mathematics and Physics", "Wayne State University", "Markov", "Engineering Analysis", "Research Classical", "Quantum Electrodynamics", "Atomic Structure", "Orbital Dynamics Stochastic Analysis"]

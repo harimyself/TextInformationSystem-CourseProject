@@ -1,0 +1,1 @@
+["Kyoto University", "avis@cs.mcgill.ca Computer Science", "McGill University", "Aut", "aut quaelibet altera"]

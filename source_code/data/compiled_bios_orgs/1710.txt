@@ -1,0 +1,1 @@
+["Arial", "hover\\r{\\r\\n", "the School of Computer Science of McGill University", "the Software Engineering Lab", "School of Computer Science McGill University", "QC", "the School of Computer Science Colloquium", "the School of Computer Science Game", "the Bellairs McGill Research Institute", "Bellairs"]

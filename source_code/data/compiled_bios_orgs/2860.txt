@@ -1,0 +1,1 @@
+["Justin", "Homepage\t", "Scientific Computing\tFull Professor", "UCLA", "UCLA", "SciCom", "the Department of Mathematics", "UCLA", "the\tScientific Computing/Computational\tMathematics", "SCCM", "Program", "Stanford University", "Forsythe Fellow\t", "1208\t", "University Avenue West\tUniversity of Waterloo\tWaterloo", "3G1\t"]

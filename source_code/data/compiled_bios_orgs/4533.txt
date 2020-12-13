@@ -1,0 +1,1 @@
+["Ph.D. Southern Methodist University", "Computer Science and Engineering M.S.E. University of Michigan", "Industrial and Operations Engineering B.S.E. University of Michigan", "Industrial and Operations Engineering Interactive Applications Multi", "Computational optimization Engineering & Computer Science", "Video Game Developement"]

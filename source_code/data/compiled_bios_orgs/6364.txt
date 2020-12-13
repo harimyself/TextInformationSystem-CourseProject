@@ -1,0 +1,1 @@
+["AmlieMarian", "theComputer Science DepartmentatRutgers University", "Personal Information Management", "Query Processing", "Web data Management", "VERSO", "atINRIA-Rocquencourt", "Google Research Awards", "NSF"]

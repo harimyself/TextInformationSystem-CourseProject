@@ -1,0 +1,1 @@
+["AVC", "Research Dev", "the King's College", "University of London", "Research Development and Administration", "the NC State Data Science Initiative", "the IFIP Working Group 2.5", "Numerical Software", "IFIP", "the IEEE Distinguished Service", "Gold Core Awards", "IEEE", "ASEE", "ASQ", "ACM"]

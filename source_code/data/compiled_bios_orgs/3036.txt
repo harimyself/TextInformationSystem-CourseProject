@@ -1,0 +1,1 @@
+["Python & R", "Data Mining", "Algorithm Design & Analysis", "Senior Project", "Web Programming Research Interests Data Mining", "Machine Learning", "Big Data", "Data"]

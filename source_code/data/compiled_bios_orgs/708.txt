@@ -1,0 +1,1 @@
+["San Francisco State University", "FERET", "CT", "University of Southern California", "Nagoya University", "San Francisco State University", "Biomedical Image & Data Analysis Lab", "BIDAL", "Siemens Corporate Research", "IEEE", "ACM", "SPIE", "MICCAI", "Pattern Analysis and Machine Intelligence", "Biomedical Imaging & Analysis"]

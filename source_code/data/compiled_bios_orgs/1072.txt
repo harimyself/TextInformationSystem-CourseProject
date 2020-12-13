@@ -1,0 +1,1 @@
+["UCL", "University College London", "Facebook", "ACM", "OOPSLA'18 Facebook Engineering", "TechRepublic", "Facebook", "ACM SIGLOG News Vol 3", "Facebook", "Facebook Engineering", "LICS", "NASA", "Automatic Program Verification and Analysis", "CAV", "Information Week ADT", "Techcrunch Facebook Acquires Monoidics"]

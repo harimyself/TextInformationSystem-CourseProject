@@ -1,0 +1,1 @@
+["IEEE/ACM Transactions on Computational Biology and Bioinformatics", "Vol.9", "Theoretical Computer Science", "Algorithmic View", "Multi", "Protein-Protein Docking", "Lecture Notes", "IEEE Computer Society Press", "IEEE Computer Society Press", "Scientific and Statistical Database Management Conference"]

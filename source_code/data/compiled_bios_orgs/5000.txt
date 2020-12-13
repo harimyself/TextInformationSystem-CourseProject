@@ -1,0 +1,1 @@
+["High-Performance Computing, Database", "Data Science and Informatics", "Energy-Aware Computing, Information Security", "Networks", "Mobile Computing Education Ph.D.", "University of Illinois", "Urbana-Champaign Research Interests Big Network Data", "Cybersecurity", "RFID Systems", "Cloud Computing", "Transportation Systems Awards & Distinctions", "NSF"]

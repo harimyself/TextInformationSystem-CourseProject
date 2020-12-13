@@ -1,0 +1,1 @@
+["Research Areas Control", "Intelligent Systems", "Robotics", "CIR", "Signal Processing", "Research Centers Simons Institute", "the Theory of Computing (SITC) Berkeley Artificial Intelligence Research Lab", "CITRIS", "BDD", "LeConte 2", "Fellowships", "Okawa Research Grant", "NSF", "PECASE", "Sloan Research Fellow"]

@@ -1,0 +1,1 @@
+["School of Computer Science University of Waterloo Waterloo", "uwaterloo.ca Office: DC 2334 Telephone", "the\tWomen in Computer Science\t"]

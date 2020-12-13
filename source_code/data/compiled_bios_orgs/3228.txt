@@ -1,0 +1,1 @@
+["the Department of Computer Science", "the University of North Carolina", "UNC-Chapel Hill", "Purdue University", "Electrical Engineering", "the Indian Institute of Technology of New Delhi", "University of Wisconsin at Madison", "Computer Human Interaction", "ACM Transactions", "andJournal ofComputer Supported Cooperative Work"]

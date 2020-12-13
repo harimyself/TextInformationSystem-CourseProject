@@ -1,0 +1,1 @@
+["University College London", "Facebook Artificial Intelligence Research", "the DensePose-COCO", "ECCV", "the School of Electrical and Computer Engineering", "NTUA", "UCLA", "Ecole Centrale Paris", "the Department of Applied Mathematics", "INRIA-Saclay", "UCL", "Computer Science", "Facebook", "Artificial Intelligence Research (FAIR"]

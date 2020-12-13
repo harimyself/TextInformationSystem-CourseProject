@@ -1,0 +1,1 @@
+["Computer Science and Engineering", "University of Michigan", "Korea Advanced Institute of Science and Technology Korea BS", "Electrical Engineering", "Korea Advanced Institute of Science and Technology", "Microsoft", "the University of Wisconsin-Green Bay", "the University of Michigan", "BS", "Korea Advanced Institute of Science and Technology", "Samsung", "SDS"]

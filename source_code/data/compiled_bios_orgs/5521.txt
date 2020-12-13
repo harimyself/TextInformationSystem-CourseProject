@@ -1,0 +1,1 @@
+["DBMS", "DBMS", "OLAP", "Big Data", "DBMS"]

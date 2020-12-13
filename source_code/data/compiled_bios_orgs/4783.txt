@@ -1,0 +1,1 @@
+["nixdell", "Cornell University", "Cornell Tech", "the Jacobs Technion Cornell Institute", "Information Science and Computer Science", "Cornell", "the Center for Health Equity", "the Digital Life Initiative", "the Atkinson Center", "HCI", "UW CSE", "ODK", "the University of Washington", "NSF", "Google", "Facebook"]

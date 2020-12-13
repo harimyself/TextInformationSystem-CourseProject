@@ -1,0 +1,1 @@
+["theUniversity of North Carolina", "UNC", "Columbia University", "Philips/Handshake Solutions", "IBM", "Boeing", "Handshake Solutions", "Philips", "the Best Paper Award", "IEEE ASYNC Symposium", "Program Committee Co-Chair forASYNC", "General Chair", "aco-Guest Editor", "IEEE Design & Test of Computers", "ACM Journal", "EmergingTechnologies of Computing Systems", "JETC"]

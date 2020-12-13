@@ -1,0 +1,1 @@
+["C++ CSC 250 Essential Computing", "the Sciences Office", "Gould-Simpson", "3rd Edition", "Franklin", "Beedle Resources Computing Fundamentals", "Java", "JUnit Resources"]

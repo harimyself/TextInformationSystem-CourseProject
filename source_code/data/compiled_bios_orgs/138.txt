@@ -1,0 +1,1 @@
+["Department of Electrical Engineering", "University of Washington", "the Departments of Computer Science and Engineering", "Seattle Box", "Advanced Submodular Structures", "Spring'15", "Dynamic Graphical Models"]

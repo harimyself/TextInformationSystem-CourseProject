@@ -1,0 +1,1 @@
+["Engineering Building", "Department of Electrical and Computer Engineering", "University of California", "University of California", "the Los Alamos National Laboratory", "ECE", "UC San Diego", "American Geophysical Union", "AGU", "AGU", "Journal of Geophysical Research-Space Physics", "Quest", "Journal of Geophysical Research-Space Physics"]

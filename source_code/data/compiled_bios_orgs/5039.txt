@@ -1,0 +1,1 @@
+["Ph.D.", "the University of Illinois", "Duke University", "BioGeometry", "University of Illinois", "Urbana-Champaign", "Middle East Technical University", "Rensselaer Polytechnic Institute", "Quality Triangulations", "SIAM Journal on Scientific Computing 31(3", "Steiner", "Geometry Appl", "National Science Foundation", "UIUC", "UIUC Contact Information Telephone", "CSE"]

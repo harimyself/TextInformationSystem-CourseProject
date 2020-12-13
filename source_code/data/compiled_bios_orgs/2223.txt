@@ -1,0 +1,1 @@
+["Computer Science Stony Brook University", "Institute for AI-Driven Discovery and Innovation at Stony Brook University", "A.E.", "Transformers", "BERT", "Foundation of Computer Science"]

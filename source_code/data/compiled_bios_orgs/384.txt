@@ -1,0 +1,1 @@
+["CS & CE", "Brunel University", "Brunel University", "RepresentativePublications", "J. Veerasamy,", "International Journal of Computer Mathematics", "Ninth International Conference on Systems Engineering", "IEEE Transactions on Parallel and Distributed Systems", "Fourier Filtering", "Journal of Visualization and Computer Animation"]

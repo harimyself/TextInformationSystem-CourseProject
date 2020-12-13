@@ -1,0 +1,1 @@
+["Science", "University of Texas", "Computer Science", "University of Texas", "National Chung-Hsing University", "Motorola", "Bell Labs", "RepresentativePublications", "Optimum Watchman Routes, Symposium on", "Optimum Watchman Routes", "Sci"]

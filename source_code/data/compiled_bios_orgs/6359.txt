@@ -1,0 +1,1 @@
+["Computer Science", "University of Minnesota", "Operations Research", "U. of M.", "University of Wisconsin", "Rutgers University", "Rutgers University", "polynomiography"]

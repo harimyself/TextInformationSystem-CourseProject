@@ -1,0 +1,1 @@
+["TASC 9013", "Software Engineering", "Data Communications", "University of Victoria", "California Institute of Technology", "Ph.D.", "California Institute of Technology", "Software Engineering", "Numerical Modelling", "Elastic Media for Earthquake"]

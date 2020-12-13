@@ -1,0 +1,1 @@
+["the College of Computing and Digital Media", "DePaul University", "the DePaul Information Assurance Center", "CDM", "Secure Electronic Commerce", "Social Aspects of Information Security", "Information Systems Security", "Host Based Security", "Introduction to Networking and Security", "UNC Chapel Hill"]

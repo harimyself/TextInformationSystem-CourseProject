@@ -1,0 +1,1 @@
+["Springer-Verlag", "NP", "P= NP", "Hilbert", "NP", "NP"]

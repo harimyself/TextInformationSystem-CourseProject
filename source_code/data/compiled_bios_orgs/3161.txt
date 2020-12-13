@@ -1,0 +1,1 @@
+["RSS", "Natural Language Processing Machine Reading and Information Visualization News", "Michigan State", "U. Michigan", "Computing Laboratory", "NSERC Discovery Accelerator Supplements Program", "NSERC Discovery Grants Program", "ACL 2017", "Machine Learning", "NAACL HLT", "SIAM International Conference on Data Mining", "SDM 2015", "MSc"]

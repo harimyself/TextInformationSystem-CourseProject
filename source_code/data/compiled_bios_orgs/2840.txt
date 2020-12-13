@@ -1,0 +1,1 @@
+["Davis Center)\t", "Waterloo\t", "W18", "W19", "Video", "W18", "W17", "W01", "W04", "F12", "S00", "Audio Research\tGroup", "An Open-Source\tElectroacoustic Measurement System Part 1: Theory,\tPracticalities & Acoustic Examples", "Linear Audio", "An Open-Source\tElectroacoustic Measurement System Part 2: Sound Card Setup", "Linear\tAudio", "LinearAudio"]

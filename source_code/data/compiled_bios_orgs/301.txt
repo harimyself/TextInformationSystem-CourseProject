@@ -1,0 +1,1 @@
+["Toggle", "Human-Centered Computing Dr.", "Clemson", "the School of Computing", "HCC", "Clemson", "the Franklin College of Arts & Sciences", "the University of Georgia", "CS", "Recent Publications: Social Effects of Pair Programming Mitigate Impact of Bounded Rationality A Spirit of Camaraderie", "Clemson University School of Computing | Office"]

@@ -1,0 +1,1 @@
+["NYU", "Java", "C", "Pascal", "Data Structures and Operating Systems", "Web Development", "JavaScript", "Photoshop", "iPhone Application Programming", "iOS", "CBS", "iPhone", "CS Chair", "Apple Computer", "Nathan", "Apple"]

@@ -1,0 +1,1 @@
+["UCSD", "Language Technologies", "the School of Computer Science", "Carnegie Mellon University", "Berg Lab", "MLT", "Ph.D.", "the History Channel", "Google", "Training of Neural Sequence Models", "KDD", "Anaphoricity Constraints", "Journal of Experimental Biology", "GPU-Friendly Local Regression", "NLP", "CMU", "NLP", "CMU", "UC Berkeley"]

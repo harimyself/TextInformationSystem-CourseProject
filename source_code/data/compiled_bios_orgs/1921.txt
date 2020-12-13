@@ -1,0 +1,1 @@
+["Computer Science Department University", "UC Irvine Center for Embedded Computer Systems", "CECS", "California Institute for Telecommunication and Information Technology", "Reconfigurable Embedded Systems Energy Sustainability in Embedded", "Embedded Systems", "NSF", "IEEE International Conference", "FPL"]

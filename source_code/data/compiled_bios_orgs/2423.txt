@@ -1,0 +1,1 @@
+["Escuela de Ingeniera y Arquitectura", "Iowa State University Department of Computer Science", "grado en Ing", "o Los Algoritmos de Compresin de Datos de Lempel-Ziv o", "ACM Transactions on Computation Theory", "Computability", "Theory of Computing Systems", "Fractal Geometry"]

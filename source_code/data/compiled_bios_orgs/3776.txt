@@ -1,0 +1,1 @@
+["Fellow Department of Computer and Electrical Engineering and Computer Science 777 Glades Road", "Ryerson University", "Canada Research Interests Non", "Data Analytics Pattern Recognition and Information Retrieval Biomedical", "Signal Analysis Machine Learning and Classification Research Site Biomedical Signal", "Image Analysis Lab"]

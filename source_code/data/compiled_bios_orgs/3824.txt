@@ -1,0 +1,1 @@
+["the University of Washington", "the DUB Group", "Human-Computer Interaction and Design", "Human-Computer Interaction", "Interface Software and Technology", "Ubiquitous Computing", "the National Science Foundation", "the Agency for Healthcare Research and Quality", "FXPAL", "Google", "Intel", "Microsoft", "Nokia"]

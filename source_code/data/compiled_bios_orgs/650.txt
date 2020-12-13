@@ -1,0 +1,1 @@
+["the University of Michigan", "Professorship in Computer Sciences", "the University of Texas", "Swarthmore College", "MIT", "QSIM", "Department Chair", "IEEE", "AAAS", "Intelligent Robotics", "EECS", "MGP"]

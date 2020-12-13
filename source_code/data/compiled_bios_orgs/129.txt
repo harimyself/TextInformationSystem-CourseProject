@@ -1,0 +1,1 @@
+["New York University", "Brown University", "the Data Intensive Systems and Analytics Group", "IBM", "T.J. Watson Research Center", "IBM", "Best Paper Award", "ACM", "USENIX"]

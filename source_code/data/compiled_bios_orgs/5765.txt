@@ -1,0 +1,1 @@
+["the University of California, Irvine", "iPhone", "the College of Computing", "Georgia Tech", "the Department of Computer Science", "the University of British Columbia", "the Department of Computer Science", "the University of California, Davis", "ECS", "UC Davis", "Columbia University's", "DEC"]

@@ -1,0 +1,1 @@
+["UniversityofArizona", "GeneMyers", "UniversitdeMontral", "DavidSankoff", "the Department of Computer Science of the UniversityofCalifornia atDavis", "DanGusfield", "a National Science Foundation", "a University of Georgia Lilly Teaching Fellow."]

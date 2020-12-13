@@ -1,0 +1,1 @@
+["Computer Science Joined", "University of Windsor, Mathematics", "SM", "University of Chicago", "Applied Mathematics", "University of Chicago", "Applied Mathematics", "Radiology", "SIAM Journal on Imaging Sciences", "Wang", "SIAM Journal on Numerical Analysis"]

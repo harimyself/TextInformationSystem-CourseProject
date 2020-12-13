@@ -1,0 +1,1 @@
+["A.B. degree", "Mathematics and Computer Science", "the College of William", "Computer Science", "the University of Rochester", "the Artificial Intelligence Principles Research Department", "AT&T Labs - Research", "Bell Laboratories", "Columbia University"]

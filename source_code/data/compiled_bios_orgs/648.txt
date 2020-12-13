@@ -1,0 +1,1 @@
+["the University of Michigan", "EECS", "Duderstadt Center", "EECS", "U-M University of Michigan CSE", "Research Autonomous", "Apollo", "GPU", "GPU", "GPU", "MICRO 2015", "A Hybrid Register Cache / Scratchpad"]

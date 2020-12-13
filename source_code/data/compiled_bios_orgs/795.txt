@@ -1,0 +1,1 @@
+["Yale University", "the University of Michigan", "DePaul"]

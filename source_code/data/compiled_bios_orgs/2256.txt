@@ -1,0 +1,1 @@
+["Computer Science", "Stony Brook University", "Time", "BSc", "Computer Science and Engineering (Minor in Mathematics", "Sabanci University", "Stony Brook University Software Consultant", "Columbus Consulting Consultant", "LogicBlox Publications Book", "Cambridge University Press", "arxiv", "the ACM SIGMOD International Conference on Management of Data 2011", "DLS", "AMAST"]

@@ -1,0 +1,1 @@
+["the Computer Science Department", "the University of California,", "the Center for Algorithms and Theory of Computation", "the Center for Algorithms, Combinatorics", "Graph", "NP", "Mastodon", "the American Association", "the Advancement of Science", "NSF", "New Center for Algorithms and Theory of Computation", "ONR"]

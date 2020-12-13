@@ -1,0 +1,1 @@
+["Graduate Studies", "Professor Department of Computer and Electrical Engineering and Computer Science 777 Glades Road", "University of Minnesota Research Interests Wireless Networking Wireless Sensor Networks Network Protocols", "Algorithm Design Combinatorial Optimization in Wireless Networks"]

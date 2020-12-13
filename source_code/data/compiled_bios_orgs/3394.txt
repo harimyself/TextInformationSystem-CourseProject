@@ -1,0 +1,1 @@
+["Brown University", "Visualization Research Lab", "VRL", "the Center for Environmental Visualization", "Masters in Computer Science", "the Rensselaer Polytechnic Institute", "Systems Engineering", "Masters in Information Science", "RISD CE", "RISD", "bruce_campbell"]

@@ -1,0 +1,1 @@
+["Computer Science", "the University of British Columbia", "the Data Science Institute", "St Paul's Hospital", "the Canadian Research Chair on Data Science and Analytics", "the Natural Language Processing Lab", "UBC", "UBC", "BSc", "Hons", "Computer Science", "the University of Waterloo", "Computer Science", "the University of Maryland", "Computer Science"]

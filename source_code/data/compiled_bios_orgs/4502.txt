@@ -1,0 +1,1 @@
+["KACB", "Ferst Drive", "the College of Computing", "the Georgia Institute of Technology", "Electrical Engineering", "Politecnico di Milano", "Georgia Tech", "DARPA", "NSF", "Fujitsu Labs", "Google", "IBM", "Microsoft", "ACM", "the Advisory Board of Reflective Corp", "ACM", "IEEE", "ACM", "ACM-SIGSOFT", "DARPA", "ACM", "IEEE Computer Society"]
