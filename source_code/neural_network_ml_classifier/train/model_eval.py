@@ -6,7 +6,7 @@ from tensorflow.keras.models import Sequential
 from sklearn.metrics import f1_score
 
 data_base_path = '../data/test/'
-model_base_path = '../fully_trained_model/neural_network_model_v2/'
+model_base_path = '../fully_trained_model/'
 
 
 print("Starting to loading models..")
