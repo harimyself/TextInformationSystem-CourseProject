@@ -107,3 +107,4 @@ zope.interface==5.2.0
 spacy==2.3.5
 tensorflow==2.0.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.3.1/en_core_web_md-2.3.1.tar.gz#egg=en_core_web_md
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.3.1/en_core_web_lg-2.3.1.tar.gz#egg=en_core_web_lg
